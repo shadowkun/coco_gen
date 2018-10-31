@@ -1,2 +1,2 @@
 # coco_gen
-Generator Fonts features Coco dataset with Chinese language
+Generator Coco style dataset and easy using.
